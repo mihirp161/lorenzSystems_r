@@ -49,7 +49,6 @@ all_solutions <- rbind(solution_a[1:2500, ],solution_b[1:2500, ])
 
 plot <- ggplot2::ggplot(data= all_solutions, aes(x = x, y = y, z = z, color = initialization)) +
                   theme_bw() +
-                  #gg3D::axes_3D(theta = -135, phi = 14) +
                   gg3D::stat_3D(data = all_solutions[,-1], mapping = aes(x = x, y = y, z = z, color = initialization), 
                                 geom = "path", size = 0.5, theta = -135, phi = 14) +
                   gg3D::stat_3D(geom = "point", theta = -135, phi = 14) +
