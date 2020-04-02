@@ -24,6 +24,10 @@ blog
 -----
 [Read my blog here!](https://opendatasurgeon.github.io/lorenz/)
 
+Inspiration
+-----------
+Lambda Moses
+
 Reading Source
 ------
 [The Lorenz's System](https://en.wikipedia.org/wiki/Lorenz_system)    
