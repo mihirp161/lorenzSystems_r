@@ -35,3 +35,8 @@ Lambda Moses
 Reading Source
 ------
 [The Lorenz's System](https://en.wikipedia.org/wiki/Lorenz_system)    
+
+Example
+--------
+<img src="https://github.com/opendatasurgeon/lorenzSystems_r/blob/master/bfe_3d_animation.gif " width="810" height="350" />
+
