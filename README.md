@@ -4,7 +4,8 @@ Plotting the Lorenz Attractor using R
 
 Project Discription
 --------------------
-I have been in a Jurassic Park binge-watch marathon, and on the first one, Jeff Goldblum mansplain the Butterfly Effect to Laura Dern. Well, I am now mansplaining through code and through blog. So yeah....I implemented an animated attractor using R.
+I have been doing some Jurassic Park movies marathon, and on the first one, Jeff Goldblum mansplains the Butterfly Effect to Laura Dern. Well, I am now mansplaining through code and through my blog. So yeah....I implemented an animated attractor using R.    
+
 *Most of the my implementation was a code conversion from a matlab code provided in the Wiki Reading source below*
 
 Langauge
