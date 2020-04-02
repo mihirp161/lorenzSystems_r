@@ -38,5 +38,5 @@ Reading Source
 
 Example
 --------
-<img src="https://github.com/opendatasurgeon/lorenzSystems_r/blob/master/bfe_3d_animation.gif " width="810" height="350" />
+<img src="https://github.com/opendatasurgeon/lorenzSystems_r/blob/master/bfe_3d_animation.gif " width="810" height="700" />
 
