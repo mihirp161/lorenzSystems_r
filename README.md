@@ -1,4 +1,7 @@
 **CODE SCRIPT COMING SOON!**
+
+
+     
 Project
 --------
 Plotting the Lorenz Attractor using R
