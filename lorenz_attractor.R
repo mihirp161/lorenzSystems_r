@@ -70,5 +70,8 @@ plot <- ggplot2::ggplot(data= all_solutions, aes(x = x, y = y, z = z, color = in
                         panel.grid.major = element_blank(),
                         panel.grid.minor = element_blank()) 
 
+# Use lower fps to slowdown particle speed on the attractor
 gganimate::animate(plot, nframes = 2500, fps = 20, height= 800, width= 800) 
+
+# Save it
 gganimate::anim_save("bfe_3d_animation.gif")
